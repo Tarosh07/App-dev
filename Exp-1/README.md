@@ -1,0 +1,1 @@
+This JavaScript class CrudArray manages a list of items using basic CRUD operations: create, read, update, and delete. Each item has a unique ID and a name. The code demonstrates adding, updating, and deleting items, showcasing how data is handled within an in-memory array structure.
